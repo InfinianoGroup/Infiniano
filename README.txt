@@ -2,7 +2,7 @@ Infiniano(R): The Infinite Piano
 
       by N. Dara, T. Franklin, D. Grove, and B. Weeks.
 
-  WWW: http://github.com/ThomasLFranklin/Final-Project/
+  WWW: http://github.com/InfinianoGroup/Infiniano/
 
 The documentation for Infiniano is licensed under the Creative Commons
 Attribution 3.0 license:
@@ -90,8 +90,7 @@ We are oprimismistic that we may add in the future:
 
 4.  Source Code and Other Information
 
-Source code to this program is always available; for more information visit
-our web site at:
+Source code to this program is always available; to view, visit the project at:
 
   http://github.com/ThomasLFranklin/Final-Project/
   
