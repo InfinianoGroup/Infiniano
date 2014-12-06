@@ -62,11 +62,10 @@ License for more details.
               mouse to hear it play.
             - To stop the current song from playing, select the red "stop
               button" in the middle of the window.
- Instructions - Selecting this "Instructions" button will bring you to a
-                placeholder page. This is intended to graphically display the
-                information available in this section of the README, but has
-                been excluded in version 1.0 to avoid redundancy.
-
+ Instructions - Selecting this "Instructions" button will bring you to an
+                instructions page which contains a condensed version of this
+                section of the README file.
+                
 -------------------------------------------------------------------------------
 
 3. Known Issues in 1.0 & Intended Fixes
